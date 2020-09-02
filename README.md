@@ -112,8 +112,8 @@ technologies. ☁️🚀
     </a>
 </p>
 
-
 ### 📫 How to reach me? ⦿ Visit my [Website](https://www.lucianonooijen.com) 🌐 <br />
+
 ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/lucianonooijen/) 🔗 <br />
 ⦿ Follow me on [Medium](https://medium.com/@lucianonooijen) 📝 <br />
 ⦿ Shoot Me an [Email](mailto:luciano@bytecode.nl) 💌 <br />
