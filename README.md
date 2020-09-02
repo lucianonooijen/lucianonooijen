@@ -18,7 +18,7 @@ technologies. ☁️🚀
         />
     </a>
     <a href="https://www.rust-lang.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/lucianonooijen/lucianonooijen/master/assets/rust.gif" height="65" />
+        <img src="https://raw.githubusercontent.com/lucianonooijen/lucianonooijen/master/assets/rust.png" height="65" />
     </a>
     <a href="https://docs.gitlab.com/ee/ci/" target="_blank">
         <img src="https://raw.githubusercontent.com/lucianonooijen/lucianonooijen/master/assets/cicd.gif" height="65" />
