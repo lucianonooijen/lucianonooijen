@@ -40,19 +40,19 @@ technologies. ☁️🚀
     <a href="https://www.typescriptlang.org/" target="_blank">
         <img
             src="https://raw.githubusercontent.com/lucianonooijen/lucianonooijen/master/assets/typescript.png"
-            height="70"
+            height="60"
         />
     </a>
     <a href="https://www.reactjs.org/" target="_blank">
         <img
             src="https://raw.githubusercontent.com/lucianonooijen/lucianonooijen/master/assets/react.png"
-            height="70"
+            height="60"
         />
     </a>
     <a href="https://www.elm-lang.org/" target="_blank">
         <img
             src="https://raw.githubusercontent.com/lucianonooijen/lucianonooijen/master/assets/elm.png"
-            height="70"
+            height="60"
         />
     </a>
     <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank">
@@ -84,7 +84,7 @@ technologies. ☁️🚀
     <a href="https://www.linux.org/" target="_blank">
         <img
             src="https://raw.githubusercontent.com/lucianonooijen/lucianonooijen/master/assets/linux.gif"
-            height="80"
+            height="60"
         />
     </a>
     <a href="https://grafana.com/" target="_blank">
