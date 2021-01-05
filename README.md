@@ -107,6 +107,9 @@ technologies. ☁️🚀
     <a href="https://digitalocean.com" target="_blank">
         <img src="https://raw.githubusercontent.com/lucianonooijen/lucianonooijen/master/assets/do.gif" height="75" />
     </a>
+    <a href="https://linode.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/lucianonooijen/lucianonooijen/master/assets/linode.gif" height="75" />
+    </a>
     <a href="https://aws.amazon.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/lucianonooijen/lucianonooijen/master/assets/aws.gif" height="75" />
     </a>
