@@ -4,9 +4,7 @@
 **lucianonooijen/lucianonooijen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am [Luciano Nooijen](https://lucianonooijen.com/), a passionate software and site reliability engineer from 🇳🇱 with a
-strong interest in Computer Science and Free and Open-Source Software. I mostly work with Golang and Cloud-Native
-technologies. ☁️🚀
+I am [Luciano Nooijen](https://lucianonooijen.com/), a software and site reliability engineer from 🇳🇱 living in 🇬🇷 with an interest in Computer Science and Free and Open-Source Software. I mostly work with Golang and Cloud-Native technologies. ☁️🚀
 
 ### Software engineering
 
