@@ -108,9 +108,6 @@ I am [Luciano Nooijen](https://lucianonooijen.com/), a software and site reliabi
     <a href="https://linode.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/lucianonooijen/lucianonooijen/master/assets/linode.png" height="35" />
     </a>
-    <a href="https://aws.amazon.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/lucianonooijen/lucianonooijen/master/assets/aws.gif" height="75" />
-    </a>
 </p>
 
 ### 📫 How to reach me? ⦿ Visit my [Website](https://www.lucianonooijen.com) 🌐 <br />
