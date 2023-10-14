@@ -4,7 +4,28 @@
 **lucianonooijen/lucianonooijen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am [Luciano Nooijen](https://lucianonooijen.com/), a software and site reliability engineer from 🇳🇱 living in 🇬🇷 with an interest in Computer Science and Free and Open-Source Software. I mostly work with Golang and Cloud-Native technologies. ☁️🚀
+I am [Luciano Nooijen](https://lucianonooijen.com/), a software and site reliability engineer from 🇳🇱 living in 🇬🇷 with an interest in Computer Science and Free and Open-Source Software. 
+
+I currently work at Companion Group as Senior Game Backend Engineer, where I work with Unreal Engine 5, C++, C# and different cloud technologies.
+
+For software engineering, I mostly work with Golang and Cloud-Native technologies. ☁️🚀
+
+### Game development
+
+<p float="left">
+    <a href="https://www.unrealengine.com" target="_blank">
+        <img
+            src="https://raw.githubusercontent.com/lucianonooijen/lucianonooijen/master/assets/unrealengine.jpg"
+            height="90"
+        />
+    </a>
+    <a href="https://docs.unrealengine.com/5.2/en-US/programming-with-cplusplus-in-unreal-engine/" target="_blank">
+        <img src="https://raw.githubusercontent.com/lucianonooijen/lucianonooijen/master/assets/cpp.png" height="65" />
+    </a>
+    <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
+        <img src="https://raw.githubusercontent.com/lucianonooijen/lucianonooijen/master/assets/csharp.gif" height="65" />
+    </a>
+</p>
 
 ### Software engineering
 
