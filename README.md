@@ -16,14 +16,14 @@ For software engineering, I mostly work with Golang and Cloud-Native technologie
     <a href="https://www.unrealengine.com" target="_blank">
         <img
             src="https://raw.githubusercontent.com/lucianonooijen/lucianonooijen/master/assets/unrealengine.jpg"
-            height="90"
+            height="65"
         />
     </a>
     <a href="https://docs.unrealengine.com/5.2/en-US/programming-with-cplusplus-in-unreal-engine/" target="_blank">
         <img src="https://raw.githubusercontent.com/lucianonooijen/lucianonooijen/master/assets/cpp.png" height="65" />
     </a>
     <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
-        <img src="https://raw.githubusercontent.com/lucianonooijen/lucianonooijen/master/assets/csharp.gif" height="65" />
+        <img src="https://raw.githubusercontent.com/lucianonooijen/lucianonooijen/master/assets/csharp.png" height="65" />
     </a>
 </p>
 
