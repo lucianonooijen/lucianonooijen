@@ -6,9 +6,9 @@
 
 I am [Luciano Nooijen](https://lucianonooijen.com/), a software and site reliability engineer from 🇳🇱 living in 🇬🇷 with an interest in Computer Science and Free and Open-Source Software. 
 
-I currently work at Companion Group as Senior Game Backend Engineer, where I work with Unreal Engine 5, C++, C# and different cloud technologies.
+I currently work at Companion Group as Lead Software Engineer, where I work with technologies such as Unreal Engine 5, C++, C, C# and different cloud technologies.
 
-For software engineering, I mostly work with Golang and Cloud-Native technologies. ☁️🚀
+For software engineering, I mostly work with Golang, C, C++ and Cloud-Native technologies. ☁️🚀
 
 ### Game development
 
@@ -19,8 +19,11 @@ For software engineering, I mostly work with Golang and Cloud-Native technologie
             height="65"
         />
     </a>
-    <a href="https://docs.unrealengine.com/5.2/en-US/programming-with-cplusplus-in-unreal-engine/" target="_blank">
+    <a href="https://isocpp.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/lucianonooijen/lucianonooijen/master/assets/cpp.png" height="65" />
+    </a>
+    <a href="https://en.cppreference.com/w/c/99" target="_blank">
+        <img src="https://raw.githubusercontent.com/lucianonooijen/lucianonooijen/master/assets/c.png" height="65" />
     </a>
     <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
         <img src="https://raw.githubusercontent.com/lucianonooijen/lucianonooijen/master/assets/csharp.png" height="65" />
@@ -35,18 +38,24 @@ For software engineering, I mostly work with Golang and Cloud-Native technologie
             src="https://raw.githubusercontent.com/lucianonooijen/lucianonooijen/master/assets/golang.gif"
             height="90"
         />
+    <a href="https://en.cppreference.com/w/c/99" target="_blank">
+        <img src="https://raw.githubusercontent.com/lucianonooijen/lucianonooijen/master/assets/c.png" height="65" />
     </a>
-        <a href="https://docs.unrealengine.com/5.2/en-US/programming-with-cplusplus-in-unreal-engine/" target="_blank">
+    <a href="https://isocpp.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/lucianonooijen/lucianonooijen/master/assets/cpp.png" height="65" />
     </a>
-    <a href="https://docs.gitlab.com/ee/ci/" target="_blank">
-        <img src="https://raw.githubusercontent.com/lucianonooijen/lucianonooijen/master/assets/cicd.gif" height="65" />
+    <a href="https://odin-lang.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/lucianonooijen/lucianonooijen/master/assets/odin.png" height="65" />
+    </a>
+    <a href="https://elixir-lang.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/lucianonooijen/lucianonooijen/master/assets/elixir.png" height="65" />
     </a>
     <a href="https://www.postgresql.org/" target="_blank">
         <img
             src="https://raw.githubusercontent.com/lucianonooijen/lucianonooijen/master/assets/postgresql.gif"
             height="90"
-        />&nbsp;&nbsp;
+            style="margin-bottom:-15px;"
+        />
     </a>
 </p>
 
@@ -68,7 +77,19 @@ For software engineering, I mostly work with Golang and Cloud-Native technologie
     <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank">
         <img
             src="https://raw.githubusercontent.com/lucianonooijen/lucianonooijen/master/assets/html-css-js.png"
-            height="70"
+            height="60"
+        />
+    </a>
+    <a href="https://elm-lang.org/" target="_blank">
+        <img
+            src="https://raw.githubusercontent.com/lucianonooijen/lucianonooijen/master/assets/elm.png"
+            height="60"
+        />
+    </a>
+    <a href="https://webassembly.org/" target="_blank">
+        <img
+            src="https://raw.githubusercontent.com/lucianonooijen/lucianonooijen/master/assets/wasm.png"
+            height="60"
         />
     </a>
 </p>
@@ -85,28 +106,19 @@ For software engineering, I mostly work with Golang and Cloud-Native technologie
     <a href="https://kubernetes.io/" target="_blank">
         <img src="https://raw.githubusercontent.com/lucianonooijen/lucianonooijen/master/assets/k8s.gif" height="75" />
     </a>
-    <a href="https://www.terraform.io/" target="_blank">
-        <img
-            src="https://raw.githubusercontent.com/lucianonooijen/lucianonooijen/master/assets/terraform.gif"
-            width="120"
-        />
-    </a>
-    <a href="https://www.linux.org/" target="_blank">
+        <a href="https://www.linux.org/" target="_blank">
         <img
             src="https://raw.githubusercontent.com/lucianonooijen/lucianonooijen/master/assets/linux.gif"
             height="60"
         />
+    </a>&nbsp;
+    <a href="https://docs.gitlab.com/ee/ci/" target="_blank">
+        <img src="https://raw.githubusercontent.com/lucianonooijen/lucianonooijen/master/assets/cicd.gif" height="65" />
     </a>
-    <a href="https://grafana.com/" target="_blank">
+    <a href="https://www.terraform.io/" target="_blank">
         <img
-            src="https://raw.githubusercontent.com/lucianonooijen/lucianonooijen/master/assets/grafana.gif"
+            src="https://raw.githubusercontent.com/lucianonooijen/lucianonooijen/master/assets/terraform.gif"
             height="60"
-        />&nbsp;&nbsp;
-    </a>
-    <a href="https://prometheus.io/" target="_blank">
-        <img
-            src="https://raw.githubusercontent.com/lucianonooijen/lucianonooijen/master/assets/prometheus.gif"
-            height="65"
         />
     </a>
 </p>
@@ -114,16 +126,27 @@ For software engineering, I mostly work with Golang and Cloud-Native technologie
 ### Public Cloud providers
 
 <p float="left">
-    <a href="https://digitalocean.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/lucianonooijen/lucianonooijen/master/assets/do.gif" height="75" />
+    <a href="https://linode.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/lucianonooijen/lucianonooijen/master/assets/aws.png" height="40" />
     </a>
     <a href="https://linode.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/lucianonooijen/lucianonooijen/master/assets/linode.png" height="35" />
+        <img src="https://raw.githubusercontent.com/lucianonooijen/lucianonooijen/master/assets/azure.png" height="40" />
+    </a>
+    <a href="https://linode.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/lucianonooijen/lucianonooijen/master/assets/gcp.png" height="40" />
+    </a>
+    <a href="https://digitalocean.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/lucianonooijen/lucianonooijen/master/assets/do.gif" height="60"style="margin-bottom:-10px" />
+    </a>
+    <a href="https://linode.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/lucianonooijen/lucianonooijen/master/assets/linode.png" height="40" />
     </a>
 </p>
 
-### 📫 How to reach me? ⦿ Visit my [Website](https://www.lucianonooijen.com) 🌐 <br />
+### 📫 How to reach me? 
 
+⦿ Visit my [Website](https://www.lucianonooijen.com) 🌐 <br />
+⦿ Subscribe to my blog's [RSS feed](https://lucianonooijen.com/blog/index.xml) 📝 <br />
 ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/lucianonooijen/) 🔗 <br />
-⦿ Follow me on [Medium](https://medium.com/@lucianonooijen) 📝 <br />
-⦿ Shoot Me an [Email](mailto:luciano@bytecode.nl) 💌 <br />
+⦿ Follow me on [Twitter](https://x.com/LucianoNooijen) 🔗 <br />
+⦿ Shoot Me an [Email](https://lucianonooijen.com/contact/) 💌 <br />
