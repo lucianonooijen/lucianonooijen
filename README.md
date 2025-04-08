@@ -36,8 +36,8 @@ For software engineering, I mostly work with Golang and Cloud-Native technologie
             height="90"
         />
     </a>
-    <a href="https://www.rust-lang.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/lucianonooijen/lucianonooijen/master/assets/rust.png" height="65" />
+        <a href="https://docs.unrealengine.com/5.2/en-US/programming-with-cplusplus-in-unreal-engine/" target="_blank">
+        <img src="https://raw.githubusercontent.com/lucianonooijen/lucianonooijen/master/assets/cpp.png" height="65" />
     </a>
     <a href="https://docs.gitlab.com/ee/ci/" target="_blank">
         <img src="https://raw.githubusercontent.com/lucianonooijen/lucianonooijen/master/assets/cicd.gif" height="65" />
@@ -47,9 +47,6 @@ For software engineering, I mostly work with Golang and Cloud-Native technologie
             src="https://raw.githubusercontent.com/lucianonooijen/lucianonooijen/master/assets/postgresql.gif"
             height="90"
         />&nbsp;&nbsp;
-    </a>
-    <a href="https://grpc.io/" target="_blank">
-        <img src="https://raw.githubusercontent.com/lucianonooijen/lucianonooijen/master/assets/grpc.gif" height="75" />
     </a>
 </p>
 
@@ -65,12 +62,6 @@ For software engineering, I mostly work with Golang and Cloud-Native technologie
     <a href="https://www.reactjs.org/" target="_blank">
         <img
             src="https://raw.githubusercontent.com/lucianonooijen/lucianonooijen/master/assets/react.png"
-            height="60"
-        />
-    </a>
-    <a href="https://www.elm-lang.org/" target="_blank">
-        <img
-            src="https://raw.githubusercontent.com/lucianonooijen/lucianonooijen/master/assets/elm.png"
             height="60"
         />
     </a>
